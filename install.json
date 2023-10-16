@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "Jupyterlab4_vpython",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package Jupyterlab4_vpython"
+}
